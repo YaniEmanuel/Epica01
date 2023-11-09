@@ -1,0 +1,16 @@
+/* styles/TodoItem.css */
+li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  button {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }  
